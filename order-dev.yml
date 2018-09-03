@@ -11,6 +11,6 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: nmfz
     password: 123456
-    url:  jdbc:mysql://120.79.28.50:3306/nmfzTest?useUnicode=true&characterEncoding=UTF-8
+    url:  jdbc:mysql://120.79.26.50:3306/nmfzTest?useUnicode=true&characterEncoding=UTF-8
   jpa:
     show-sql: true
