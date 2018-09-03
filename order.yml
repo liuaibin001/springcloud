@@ -12,7 +12,5 @@ spring:
     username: nmfz
     password: 123456
     url:  jdbc:mysql://120.79.26.50:3306/nmfzTest?useUnicode=true&characterEncoding=UTF-8
-  jpa:
-    show-sql: true
 env:
   env   
