@@ -14,5 +14,3 @@ spring:
     url:  jdbc:mysql://120.79.28.50:3306/nmfzTest?useUnicode=true&characterEncoding=UTF-8
 env:
   env
-enr:
-  enr45
